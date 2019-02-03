@@ -1,5 +1,5 @@
 <?php
-  echo"Hello Word!";
+  echo"Hello Word 123!";
   echo "<br />Olá mundo!";
- echo "<br />olá hcode!"; 
+ echo "<br />olá Udemy!"; 
 ?>
